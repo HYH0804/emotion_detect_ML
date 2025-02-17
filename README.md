@@ -1,6 +1,17 @@
 # emotion_detect_ML
 
 
+
+
+
+
+
+
+
+
+
+
+--------------------------------------
 ### TODO
 - 서영
     - 모델 최적 hyperparameter로 학습하기
@@ -17,3 +28,7 @@
     - precision, recall, roc curve, f1_score, confusion matrix, learning curve 등
     - 다양한 지표 보여주기
  --- 
+
+---------------------------------
+
+
