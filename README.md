@@ -31,7 +31,6 @@ https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer/suggestions?sta
 
 더 자세한 보고서 자료는 아래에 첨부합니다.
 
-[20250217145508_9882487311845.pdf](https://github.com/user-attachments/files/18821960/20250217145508_9882487311845.pdf)
 
 
 
